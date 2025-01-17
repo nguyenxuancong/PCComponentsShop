@@ -23,6 +23,7 @@ import com.base.service.AddressService;
 public class AddressController {
 	
 	
+	// tiêm đối tượng
 	@Autowired
 	private AddressService addressService;
 	
